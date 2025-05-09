@@ -1,10 +1,9 @@
 # CODSOFT_TASK5
 #  CREDIT CARD FRAUD DETECTION
 
-## Author
-**IMAM HUSSAIN B**  
-Batch: APRIL BATCH B23  
-Domain: Data Science
+## Author : IMAM HUSSAIN B 
+## Batch: APRIL BATCH B23  
+## Domain: Data Science
 
 ## Project Overview
 This project aims to train a classification algorithm to identify fraudulent transactions in a credit card transaction dataset. The goal is to build a model that can classify transactions as either fraudulent or genuine, using various machine learning techniques.
